@@ -27,3 +27,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Melhorias implementadas:
 
 -   Otimização dos assets como imagens, css e javascript.
+-   Utilização da biblioteca swiper.
